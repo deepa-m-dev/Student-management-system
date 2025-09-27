@@ -89,7 +89,8 @@ src/main/resources/templates
 
 - You will see all students displayed in a table with Edit and Delete buttons.
 
-📸 Screenshot:<img width="1920" height="1037" alt="sms2" src="https://github.com/user-attachments/assets/275fe209-dcd6-4c4d-8cda-a81a12434db6" />
+📸 Screenshot:<img width="1920" height="1000" alt="sms1" src="https://github.com/user-attachments/assets/4a993afa-f119-40f2-95db-399091c5551b" />
+
 <img width="1920" height="1037" alt="sms2" src="https://github.com/user-attachments/assets/d596e592-6137-4b0c-8b4c-043fb527e50c" />
 
 
