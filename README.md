@@ -25,26 +25,43 @@ It allows you to manage student records (Add, Edit, Delete, List) with a clean *
 ## 📂 Project Structure
 src/main/java/com/example/demo
 │
+
 ├── controller
+
 │ └── StudentController.java
+
 │
+
 ├── model
+
 │ └── Student.java
+
 │
+
 ├── repository
+
 │ └── studentRepository.java
+
 │
+
 ├── service
+
 │ ├── StudentService.java
+
 │ └── StudentServiced.java
+
 │
+
 └── DemoApplication.java
 
 
 **Thymeleaf Templates (Frontend):**
 src/main/resources/templates
+
 │
+
 ├── student.html # Student list page (View/Delete/Edit)
+
 └── add-student.html # Add or Edit student form
 
 ---
@@ -72,7 +89,8 @@ src/main/resources/templates
 
 - You will see all students displayed in a table with Edit and Delete buttons.
 
-📸 Screenshot:
+📸 Screenshot:<img width="1920" height="1037" alt="sms2" src="https://github.com/user-attachments/assets/275fe209-dcd6-4c4d-8cda-a81a12434db6" />
+
 
 2️⃣ **Add a New Student**
 
