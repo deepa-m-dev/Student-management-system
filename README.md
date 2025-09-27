@@ -90,6 +90,8 @@ src/main/resources/templates
 - You will see all students displayed in a table with Edit and Delete buttons.
 
 📸 Screenshot:<img width="1920" height="1037" alt="sms2" src="https://github.com/user-attachments/assets/275fe209-dcd6-4c4d-8cda-a81a12434db6" />
+<img width="1920" height="1037" alt="sms2" src="https://github.com/user-attachments/assets/d596e592-6137-4b0c-8b4c-043fb527e50c" />
+
 
 
 2️⃣ **Add a New Student**
@@ -101,6 +103,10 @@ src/main/resources/templates
 - Click Save to add the student.
 
 📸 Screenshot:
+<img width="1920" height="1035" alt="sms8" src="https://github.com/user-attachments/assets/ba0dd491-aa87-434a-aa5e-911da1228ce1" />
+
+<img width="1920" height="1039" alt="sms3" src="https://github.com/user-attachments/assets/adcf77a6-d5db-4a1a-a767-63ea558776d5" />
+
 
 3️⃣ **Edit Student**
 
@@ -109,6 +115,9 @@ src/main/resources/templates
 - Update the details and click Save.
 
 📸 Screenshot:
+<img width="1920" height="1035" alt="sms4" src="https://github.com/user-attachments/assets/d44d0acb-a625-4524-835e-197ba6537f02" />
+
+<img width="1920" height="1035" alt="sms5" src="https://github.com/user-attachments/assets/17e9cdb1-4444-4a7a-83d0-cdf94a481d06" />
 
 
 4️⃣ **Delete Student**
@@ -118,6 +127,8 @@ src/main/resources/templates
 - The student will be removed from the database.
 
 📸 Screenshot:
+<img width="1920" height="1033" alt="sms6" src="https://github.com/user-attachments/assets/4914687c-7f35-4abc-a7cb-370f7555aeee" />
+<img width="1920" height="1032" alt="sms7" src="https://github.com/user-attachments/assets/97b6beee-2d8b-4f30-93fb-c6dbf8782269" />
 
 ## 🔧 Database Configuration
 
