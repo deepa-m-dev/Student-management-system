@@ -148,5 +148,5 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-<a href="https://www.linkedin.com/deepa-mofficial">Deepa M</a>
+<a href="https://github.com/deepa-m-dev">Deepa M </a>
 
