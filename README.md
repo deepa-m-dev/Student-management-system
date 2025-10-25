@@ -70,7 +70,7 @@ src/main/resources/templates
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/student-management.git
+   git clone https://github.com/deepa-m-dev/student-management.git
    cd student-management
 2. **Build the project with Maven**
     ```bash
@@ -138,13 +138,6 @@ To switch to MySQL, update application.properties in:
 
 src/main/resources/application.properties
 
- **Example for MySQL:**
-
-    ```properties:
-    spring.datasource.url=jdbc:mysql://localhost:3306/studentdb
-    spring.datasource.username=root
-    spring.datasource.password=yourpassword
-    spring.jpa.hibernate.ddl-auto=update
 
 ## 🤝 Contributing
 
@@ -155,5 +148,5 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-Deepa M
-GitHub: deepa-m-dev
+<a href="https://www.linkedin.com/deepa-mofficial">Deepa M</a>
+
