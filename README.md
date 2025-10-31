@@ -82,6 +82,8 @@ src/main/resources/templates
    ```bash
    http://localhost:8080
 
+---
+
 ## 🖥️ Usage (Step-by-Step)
 1️⃣ **View Student List**
 
@@ -131,6 +133,8 @@ src/main/resources/templates
 <img width="1920" height="1033" alt="sms6" src="https://github.com/user-attachments/assets/4914687c-7f35-4abc-a7cb-370f7555aeee" />
 <img width="1920" height="1032" alt="sms7" src="https://github.com/user-attachments/assets/97b6beee-2d8b-4f30-93fb-c6dbf8782269" />
 
+---
+
 ## 🔧 Database Configuration
 
 By default, the project uses H2 in-memory database.
@@ -138,11 +142,13 @@ To switch to MySQL, update application.properties in:
 
 src/main/resources/application.properties
 
+---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
+---
 
 ## 👨‍💻 Author
 <a href="https://github.com/deepa-m-dev">Deepa M </a>
