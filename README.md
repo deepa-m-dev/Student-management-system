@@ -143,9 +143,6 @@ src/main/resources/application.properties
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 <a href="https://github.com/deepa-m-dev">Deepa M </a>
